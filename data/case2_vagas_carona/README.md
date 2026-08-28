@@ -20,7 +20,9 @@ aluno chega saem do Case 3 (grade). Uma boa solução de carona conversa com os
 três.
 
 Sites já criados por outros grupos de alunos:
+
 https://venture-projects.github.io/temvaga/#
+
 https://www.lotapuc.tech/estacionamento
 
 ## Ideias de recorte
