@@ -19,6 +19,10 @@ O elo com os outros cases: o **bairro de moradia** dos alunos está em
 aluno chega saem do Case 3 (grade). Uma boa solução de carona conversa com os
 três.
 
+Sites já criados por outros grupos de alunos:
+https://venture-projects.github.io/temvaga/#
+https://www.lotapuc.tech/estacionamento
+
 ## Ideias de recorte
 
 - **Previsão de ocupação**: a que horas a bike / o carro lota? Qual o erro
