@@ -59,6 +59,9 @@ como indivisível: o aluno pega a turma inteira ou não pega.
 - Ou seja: o choque de horário não é aleatório, ele é estrutural. Boa parte das
   disciplinas disputa as mesmas duas ou três faixas.
 
+## Link de um projeto de grupo de alunos (período anterior):
+https://gradezou.onrender.com/
+
 ## Cuidados com os dados
 
 1. **Vieram 2 períodos, não 4.** O e-mail pedia 2 anos (4 períodos); a base
