@@ -38,6 +38,13 @@ Novo em Git/GitHub ou no Claude? Comece por **[COMO_COMECAR.md](COMO_COMECAR.md)
 > da grade (Case 3) define a que horas o aluno chega (Case 2). Cruzar cases é
 > bem-vindo.
 
+## GitHubs final dos grupos que participaram da SIEng:
+Facul Food: https://github.com/Aguimim/faculfood
+Grade Sob Medida: https://github.com/JudyFaria/grade-sob-medida_/
+Iteri: https://supabase.com/dashboard/project/oarkrgnjaheqjosgbdpj
+SOL: https://github.com/PIST0LINHA/sieng_workshop
+Vaga Certa: https://github.com/Bulquerque/vaga-certa-puc-rio
+
 ## Onde estão os dados
 
 Tudo em **[`data/`](data/)**, uma pasta por case, cada uma com o seu `README.md`
