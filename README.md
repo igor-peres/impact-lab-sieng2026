@@ -40,13 +40,15 @@ Novo em Git/GitHub ou no Claude? Comece por **[COMO_COMECAR.md](COMO_COMECAR.md)
 
 ## GitHubs final dos grupos que participaram da SIEng:
 
-Facul Food: https://github.com/Aguimim/faculfood
+Facul Food: https://github.com/Aguimim/faculfood (1º lugar)
+
+PUC Routione: (2º lugar)
+
+SOL: https://github.com/PIST0LINHA/sieng_workshop (3º lugar)
 
 Grade Sob Medida: https://github.com/JudyFaria/grade-sob-medida_/
 
 Iteri: https://supabase.com/dashboard/project/oarkrgnjaheqjosgbdpj
-
-SOL: https://github.com/PIST0LINHA/sieng_workshop
 
 Vaga Certa: https://github.com/Bulquerque/vaga-certa-puc-rio
 
