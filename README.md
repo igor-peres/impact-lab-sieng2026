@@ -42,7 +42,7 @@ Novo em Git/GitHub ou no Claude? Comece por **[COMO_COMECAR.md](COMO_COMECAR.md)
 
 Facul Food: https://github.com/Aguimim/faculfood (1º lugar)
 
-PUC Routione: (2º lugar)
+PUC Routine: https://github.com/gustavohoml/projeto-workshop (2º lugar)
 
 SOL: https://github.com/PIST0LINHA/sieng_workshop (3º lugar)
 
